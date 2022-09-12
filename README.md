@@ -1,3 +1,4 @@
+#EXTM3U url-tvg =https://raw.githubusercontent.com/dracohe/COLOR/master/guide_IPTV_COLOR.xml
 # iptv#EXTINF:-1 tvg-id="cero.es" tvg-name="ES| M+ #0 HD" tvg-logo="https://lo1.in/LOGO/SPAIN/00.png" group-title="EU | SPAIN HD",ES| M+ #0 HD
 http://line.tv65.co:900/2375296566/0723859513/165951
 #EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="ES| M. ESTRENOS HD" tvg-logo="https://lo1.in/LOGO/SPAIN/M-ESTRENOS.png" group-title="EU | SPAIN HD",ES| M. ESTRENOS HD
